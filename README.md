@@ -39,7 +39,7 @@ Libraries: <i>OpenCV 4.5.1</i><br>
 ### Black hat filter
 <img src="screenshots/screenshot_4.png" alt="Black hat filter"><br>
 
-### Binary Thresholding (MASK)
+### Binary Thresholding (Mask)
 <img src="screenshots/screenshot_5.png" alt="Binary Thresholding"><br>
 
 ### Replace pixels of the mask (Output image)
