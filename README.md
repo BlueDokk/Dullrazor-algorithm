@@ -1,4 +1,4 @@
-# Dullrazor-algorithm 💻🧬
+# Dullrazor algorithm 💻🧬
 
 <img src="screenshots/screenshot_0.png" alt="homepage"><br>
 <hr>
