@@ -3,7 +3,7 @@
 <img src="screenshots/screenshot_0.png" alt="homepage"><br>
 <hr>
 
-### Requirements 
+### Minimum requirements 
 
 <p>Programming language: <i>Python</i><br>
 Version language: <i>Python 3.8.8</i><br>
@@ -26,6 +26,8 @@ Libraries: <i>OpenCV 4.5.1</i><br>
 <hr>
 
 ## SCREENSHOTS
+
+<p>Input image from HAM10000 database.</p>
 
 ### Input image
 <img src="screenshots/screenshot_1.png" alt="Input image"><br>
